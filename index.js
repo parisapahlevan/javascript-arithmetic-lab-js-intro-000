@@ -14,3 +14,4 @@ function divide (a,b){
   return a/b
 }
 
+parseInt('2', 10)
