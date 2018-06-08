@@ -15,7 +15,7 @@ function divide (a,b){
 }
 var n = 175
 function inc(n){
-  return n++
+  return n 
 }
 
 function dec(n){
