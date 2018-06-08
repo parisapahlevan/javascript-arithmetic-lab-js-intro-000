@@ -1,3 +1,3 @@
-function add( 2 + 80){
+function add(80){
   
 }
