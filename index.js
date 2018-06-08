@@ -18,6 +18,6 @@ var number = 2
  number++
  number
  
-function parseInt(a,b){
- return (a, b) 
+function makeInt(n){
+  
 }
