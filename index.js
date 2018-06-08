@@ -17,10 +17,6 @@ function inc(n){
   return n++
 }
 
-var number = 2
- number++
- number
- 
 function makeInt(n){
   n = 2 
   parseInt('2')
