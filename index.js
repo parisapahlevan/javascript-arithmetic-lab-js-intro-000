@@ -34,6 +34,6 @@ function makeInt(n){
   parseInt('paris')
 }
  function makeInt(n){
-   
+   parseInt()
  }
  
