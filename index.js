@@ -15,5 +15,5 @@ function divide (a,b){
 }
 
 var n = 2
-  return "n++"
+  n++
  
