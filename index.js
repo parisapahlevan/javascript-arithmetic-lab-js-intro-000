@@ -31,7 +31,7 @@ function parseInt('2', 10){
 }
 
 function preserveDecimal(n){
-  return 
+  return parseFloat(n)
 }
 
  
