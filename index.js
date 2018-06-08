@@ -1,4 +1,4 @@
-ver number = 5;
+var number = 5;
 function add3 (){
   number += 3
 }
