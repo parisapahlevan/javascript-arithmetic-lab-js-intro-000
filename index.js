@@ -1,1 +1,1 @@
-var add 
+var add (2.3,4);
