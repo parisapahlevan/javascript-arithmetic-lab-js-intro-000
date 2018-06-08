@@ -14,7 +14,7 @@ function divide (a,b){
   return a/b
 }
 
-var n = 2
- n++
- n
+var number = 2
+ number++
+ number
  
