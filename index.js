@@ -38,6 +38,6 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  return parseInt(10)
+  return parseInt(n, 10)
 }
  
