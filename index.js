@@ -31,7 +31,7 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  parseFloat('paris')
+  parseInt('paris')
 }
  
  
