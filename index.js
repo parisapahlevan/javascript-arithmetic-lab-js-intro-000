@@ -20,7 +20,7 @@ var number = 2
  
 function makeInt(n){
   n = 2 
-  
+  parseInt('2', 10)
  }
  
  
