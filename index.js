@@ -1,2 +1,2 @@
-var add 2.3,4;
+var add (2, 5, 7)
 console.log ("add");
