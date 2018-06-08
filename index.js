@@ -19,5 +19,5 @@ var number = 2
  number
  
 function parseInt(a,b){
- return ('2', 10) 
+ return (a, b) 
 }
