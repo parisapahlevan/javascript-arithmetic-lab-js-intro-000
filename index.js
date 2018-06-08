@@ -13,7 +13,9 @@ function multiply (a,b){
 function divide (a,b){
   return a/b
 }
-function 
+function inc(n){
+  
+}
 
 var number = 2
  number++
