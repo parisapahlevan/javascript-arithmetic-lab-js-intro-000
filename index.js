@@ -26,7 +26,9 @@ function makeInt(n){
   return parseInt(n)
 }
 
-function 
+function parseInt('2', 10){
+  
+}
 
 
 
