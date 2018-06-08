@@ -14,4 +14,8 @@ function divide (a,b){
   return a/b
 }
 
-var a = parseInt(2)
+var n = 0;
+  function increment(){
+  n++;
+  return n;
+}
