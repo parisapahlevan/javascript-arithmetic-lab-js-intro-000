@@ -31,13 +31,13 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  parseInt('paris')
+  return parseInt('paris')
 }
  function makeInt(n){
-   parseInt('2')
+   return parseInt('2')
 }
 
 function makeInt(n){
-  parseInt(10)
+  return parseInt(10)
 }
  
