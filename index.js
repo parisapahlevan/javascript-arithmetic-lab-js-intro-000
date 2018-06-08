@@ -1,2 +1,3 @@
-var add = (2, 5)
-console.log ("add");
+var number = 5
+number += 3 
+console.log(number)
