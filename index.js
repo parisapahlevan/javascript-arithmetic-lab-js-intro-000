@@ -18,6 +18,6 @@ var number = 2
  number++
  number
  
-function parseInt(2,10){
-  
+function parseInt(a,b){
+ return ('2', 10) 
 }
