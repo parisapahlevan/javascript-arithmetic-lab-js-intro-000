@@ -14,6 +14,7 @@ function divide (a,b){
   return a/b
 }
 
-var inc(n) = 2
-  n++
+var inc(n) = n
+ inc(n)++
+  inc(n)
  
