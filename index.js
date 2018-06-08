@@ -14,4 +14,5 @@ function divide (a,b){
   return a/b
 }
 
-var n =  
+var n = 2 
+return ++n
