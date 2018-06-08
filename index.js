@@ -16,5 +16,5 @@ function divide (a,b){
 
 var n = 2
  n++
- a
+ n
  
