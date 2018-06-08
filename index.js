@@ -18,11 +18,9 @@ function inc(n){
   return n++
 }
 
-function 
+function dec(n){
+  return n--
+}
 
-function makeInt(n){
-  n = 2 
-  parseInt('2')
- }
- 
+
  
